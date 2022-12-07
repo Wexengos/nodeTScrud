@@ -6,4 +6,4 @@ Install yarn,
 Clone repository,
 Run "yarn", then "yarn dev" on your terminal in the root folder.
 
-In the root folder there is a JSON file for Insomnia v4 testing.
+In the root folder there is a JSON file for Insomnia testing.
